@@ -1,0 +1,24 @@
+.body{
+    width: 100%;
+    height: 700px;
+    padding-top: 200px;
+   
+}
+.body h1{
+   color: aliceblue;
+   text-align: center;
+}
+.body p{
+    color: aliceblue;
+}
+.logo{
+    width: 100%;
+    height: 800px;
+}
+.img-cuerpo{
+    width: 500px;
+    height: 300px;
+}
+.parrafoeimagen{
+    display: flex;
+}
