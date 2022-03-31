@@ -9,9 +9,14 @@
     padding: 30px 20px;
 
 }
+.example-spacer {
+    flex: 1 1 auto;
+    padding-right: 300px;
+}
+
 
 .img-logo{
-    width: 80px;
+    width: 60px;
     display: block;
     margin: 0 auto;
     padding-top: 20px;

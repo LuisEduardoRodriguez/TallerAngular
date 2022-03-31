@@ -2,6 +2,7 @@
     width: 100%;
     height: 700px;
     padding-top: 200px;
+  
    
 }
 .body h1{
@@ -21,4 +22,17 @@
 }
 .parrafoeimagen{
     display: flex;
+    margin: 0px 10px 0px 10px;
+}
+.example-card {
+    max-width: 400px;
+    margin-bottom: 8px;
+  }
+
+.cards{
+    margin: 10px 5px 0px 20px;
+    display: flex;  
+}
+.card2{
+    margin: 0px 10px 0px 10px;
 }
